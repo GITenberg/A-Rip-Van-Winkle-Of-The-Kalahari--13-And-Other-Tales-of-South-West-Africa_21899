@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '24958'
     url: http://www.gutenberg.org/2009/agents/24958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21899#A-Rip-Van-Winkle-Of-The-Kalahari--13-And-Other-Tales-of-South-West-Africa
 gutenberg_bookshelf:
 - South Africa
 - Africa
